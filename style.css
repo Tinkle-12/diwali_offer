@@ -1,0 +1,11 @@
+body{
+    background-image: url(bg-image.jpg);
+} 
+.flex-box{
+    display: flex;
+    justify-content: center;
+}
+.d-width{
+    width: 100vw;
+    height: 70vh;
+}

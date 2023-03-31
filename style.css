@@ -9,3 +9,8 @@ body{
     width: 100vw;
     height: 70vh;
 }
+@media  (max-width: 975px){
+   .d-width{
+   width: 100vw;
+    height: 30vh;
+}
